@@ -1,0 +1,2 @@
+2023-09-23 20:36:26.868 test.py[25] <module> -> Find Control Timeout(10s): {SubName: '离谱', ControlType: TextControl}
+2023-09-23 20:36:52.806 test.py[25] <module> -> Find Control Timeout(10s): {SubName: '离谱', ControlType: TextControl}
